@@ -16,7 +16,7 @@ Based on ElegantFin **v26.09.05**, plus upstream fixes merged since then (latest
 
 In Jellyfin, go to **Dashboard → Branding → Custom CSS code**, paste the snippet for your Jellyfin version, and save. Refresh the page (or clear the cache) to see the changes.
 
-The `./` paths below are resolved relative to your Jellyfin web client. To use them, copy this repository's files there. Otherwise, replace `./` with `https://cdn.jsdelivr.net/gh/seba-daves/ElegantFin@main/` to load the files straight from this repository.
+The `./` paths below are resolved relative to your Jellyfin web client. To use them, copy this repository's files there.
 
 ### Jellyfin 12 (preliminary)
 
