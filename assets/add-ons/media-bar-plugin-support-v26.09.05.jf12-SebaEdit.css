@@ -100,7 +100,7 @@
 
 /*SEBAFIX: DISTANCE FROM MEDIABAR ON JF 12*/
 .section0{
-    padding-top: 10vh !important;
+    padding-top: 12vh !important;
 }
 
 /* SEBAFIX: clamp the synopsis so long text can't overflow above its box and collide with the header */
@@ -128,7 +128,7 @@
         bottom: 6vh !important;
     }
     #slides-container{
-        top: 10vh !important;
+        top: 22vh !important;
     }
 }
 
